@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+![](https://visitor-badge.glitch.me/badge?page_id=lwrgithub.lwrgithub)
 
 - 🔭 I’m currently working on many projects including a web app to help prevent evictions.
 - 🌱 I’m currently learning Swift
