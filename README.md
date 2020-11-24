@@ -7,8 +7,8 @@
 - 🤔 I’m looking for help with my web app that is designed to help prevent people form getting evicted.
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: https://lwrgithub.github.io/#/contact 
-- 😄 Pronouns: Him, He, His
-- ⚡ Fun fact: I have red hair!
+- 😄 Pronouns: [Him, He, His]
+- ⚡ Fun fact: If computer programming was a country it would have held the 2nd most diversity in the number of languages with more than 700 approx. (something to ponder!)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=lwrgithub&show_icons=true&theme=gotham" alt="lwrgithub" />
