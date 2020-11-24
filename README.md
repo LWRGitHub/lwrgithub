@@ -1,7 +1,7 @@
 ### Hi there 👋 
 ![](https://visitor-badge.glitch.me/badge?page_id=lwrgithub.lwrgithub)
 
-- 🔭 I’m currently working on something cool 😉;
+- 🔭 👨🏼‍💻 I’m currently working on something cool 😉;
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on projects to make the world a better place or further my career.
 - 🤔 I’m looking for help with my web app that is designed to help prevent people form getting evicted.
