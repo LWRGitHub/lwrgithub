@@ -19,10 +19,10 @@
 
 <br>
 📈 My GitHub Stats
-
+<br>
 <p> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lwrgithub&show_icons=true&theme=gotham" alt="lwrgithub" />
 
-
+<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwrgithub&theme=gotham&langs_count=10" width="34%" align="right"/>
 
 **Languages and Tools:**  
