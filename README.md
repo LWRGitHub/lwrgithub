@@ -1,15 +1,15 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
 
 ![](https://img.shields.io/badge/I%20have%20written%20-11.3%20million%20lines%20of%20code-black)
 ![](https://visitor-badge.glitch.me/badge?page_id=lwrgithub.lwrgithub)
 
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="right"/><img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="right"/>
 
 
- 
+
 - 👨🏼‍💻 I’m currently working on something cool 😉;
 - 🌱 I’m currently learning Swift
 - 👯 I’m looking to collaborate on projects to make the world a better place or further my career.
