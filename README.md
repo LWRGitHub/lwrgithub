@@ -2,7 +2,7 @@
 ### Hi there 👋 
 
 
- <img align="right" alt="GIF" src="https://github.com/lwrgithub/lwrgithub/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="500" height="320" />
  
 - 👨🏼‍💻 I’m currently working on something cool 😉;
 - 🌱 I’m currently learning Swift
