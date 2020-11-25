@@ -1,10 +1,14 @@
-### Hi there 👋 
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+
+![](https://img.shields.io/badge/I%20have%20written%20-11.3%20million%20lines%20of%20code-black)
 ![](https://visitor-badge.glitch.me/badge?page_id=lwrgithub.lwrgithub)
 
 
 
- <img align="right" alt="GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="500" height="320" />
+
  
 - 👨🏼‍💻 I’m currently working on something cool 😉;
 - 🌱 I’m currently learning Swift
@@ -18,5 +22,5 @@
 
 <p> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lwrgithub&show_icons=true&theme=gotham" alt="lwrgithub" />
 
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lwrgithub&theme=gotham&langs_count=10)](https://github.com/lwrgithub/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=lwrgithub&theme=gotham&langs_count=10)](https://github.com/lwrgithub/github-readme-stats)<img align="right" alt="GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="500" height="320" />
 
