@@ -10,12 +10,13 @@
 <img alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="50%" align="right" />
 
 - 👨🏼‍💻 I’m currently working on something cool 😉;
-- 👯 I’m looking to collaborate on projects to make the world a better place or further my career.
-- 🤔 I’m looking for help with my web app that is designed to help prevent people form getting evicted.
+- 👯 I’m looking to collaborate on projects to make the world a better place or further my career;
+- 🤔 I’m looking for help with my web app that is designed to help prevent people form getting evicted;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: https://lwrgithub.github.io/#/contact 
-- 😄 Pronouns: [Him, He, His]
-- ⚡ Fun fact: If computer programming was a country it would have held the 2nd most diversity in the number of languages with more than 700 approx. (something to ponder!)
+- 😄 Pronouns: [Him, He, His];
+- ⚡ Fun fact: If computer programming was a country it would have held the 2nd most diversity in the number of languages with more than 700 approx. (something to ponder!);
+- 📝[Resume](https://lwrgithub.github.io/files/logan-reynolds-resume.pdf)
 
 
 📈 My GitHub Stats
