@@ -1,5 +1,7 @@
-![](https://visitor-badge.glitch.me/badge?page_id=lwrgithub.lwrgithub)
 ### Hi there 👋 
+
+![](https://visitor-badge.glitch.me/badge?page_id=lwrgithub.lwrgithub)
+
 
 
  <img align="right" alt="GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="500" height="320" />
