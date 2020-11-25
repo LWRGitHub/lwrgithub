@@ -16,12 +16,14 @@
 - 😄 Pronouns: [Him, He, His]
 - ⚡ Fun fact: If computer programming was a country it would have held the 2nd most diversity in the number of languages with more than 700 approx. (something to ponder!)
 
+📈 My GitHub Stats
 
 <p> <img width="100%" src="https://github-readme-stats.vercel.app/api?username=lwrgithub&show_icons=true&theme=gotham" alt="lwrgithub" />
 
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwrgithub&theme=gotham&langs_count=10" width="34%"/><img align="right" alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="60%" />
 
+**Languages and Tools:**  
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
