@@ -16,7 +16,7 @@
 - 📫 How to reach me: [Contact Info](https://lwrgithub.github.io/#/contact);  
 - 😄 Pronouns: [Him, He, His];
 - ⚡ Fun fact: If computer programming was a country it would have held the 2nd most diversity in the number of languages with more than 700 approx. (something to ponder!);
-- 📝[Resume](https://lwrgithub.github.io/files/logan-reynolds-resume.pdf)
+- 📝 [Resume](https://lwrgithub.github.io/files/logan-reynolds-resume.pdf);
 
 
 📈 My GitHub Stats
