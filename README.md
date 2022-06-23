@@ -1,6 +1,7 @@
 <link rel="stylesheet" type="text/css" media="all" href="https://github.com/lwrgithub/lwrgithub/blob/main/style.css" />
 
-# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Hi there 👋
+<!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  -->
 
 <img alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="50%" align="right" />
 
