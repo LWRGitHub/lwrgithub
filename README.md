@@ -5,7 +5,7 @@
 
 <img alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="50%" align="right" />
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: <a href="https://lwrgithub.github.io">www.EngineerLWR.com</a> </h3>
 <p align="left">
 <a href="https://linkedin.com/in/logan-reynolds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-reynolds" height="30" width="40" /></a>
 </p>
@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact: If computer programming was a country it would have held the 2nd most diversity in the number of languages with more than 700 approx. (something to ponder!);
 - 📝 [Resume](https://lwrgithub.github.io/files/logan-reynolds-resume.pdf);
-- 💼 [www.EngineerLWR.com](https://lwrgithub.github.io);
+<!-- - 💼 [www.EngineerLWR.com](https://lwrgithub.github.io); -->
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lwrgithub&show_icons=true&locale=en" alt="lwrgithub" width="100%"/></p>
 
