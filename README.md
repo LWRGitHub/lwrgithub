@@ -14,4 +14,4 @@
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Contact Info](https://lwrgithub.github.io/#/contact);  
 
-- ⚡ Fun fact: If computer programming were a country, it would rank 2nd in linguistic diversity, with more than 700 programming languages! (Something to think about!)
+- ⚡ Fun fact: If computer programming were a country, it would rank 2nd in linguistic diversity, with more than 700 programming languages! (Something to think ponder!);
