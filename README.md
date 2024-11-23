@@ -3,7 +3,7 @@
 # Hi there 👋
 
 
-<img alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="50%" align="right" />
+<img alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="25%" align="right" />
 
 
 
