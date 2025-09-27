@@ -3,9 +3,6 @@
 # Hi there 👋
 
 
-<img alt="person coding GIF" src="https://github.com/lwrgithub/lwrgithub/blob/main/code.gif?raw=true" width="35%" align="right" />
-
-
 
 - Portfolio: [EngineerLWR.com](https://lwrgithub.github.io)
 - <a href="https://linkedin.com/in/logan-reynolds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-reynolds" height="30" width="40" /> LinkedIn.com/in/Logan-Reynolds</a>
