@@ -4,11 +4,9 @@
 
 
 
-- Portfolio: [EngineerLWR.com](https://lwrgithub.github.io)
-- <a href="https://linkedin.com/in/logan-reynolds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="logan-reynolds" height="30" width="40" /> LinkedIn.com/in/Logan-Reynolds</a>
-
+- 💼 Portfolio: [EngineerLWR.com](https://lwrgithub.github.io)
 - 👨🏼‍💻 I’m currently working on something cool 😉;
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [Contact Info](https://lwrgithub.github.io/#/contact);  
+- <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Logan Reynolds' LinkedIn" width="15" style="vertical-align: -1px;"/> How to reach me: <a href="https://linkedin.com/in/logan-reynolds" target="blank">LinkedIn.com/in/Logan-Reynolds</a>
 
 - ⚡ Fun fact: If computer programming were a country, it would rank 2nd in linguistic diversity, with more than 700 programming languages! (Something to think ponder!);
