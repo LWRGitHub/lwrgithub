@@ -62,13 +62,3 @@ A  M  O  N  G    R  O  U  G  H  L  Y    1  0    M  I  L  L  I  O  N    P  E  O  
 | 🌐 | Full Stack Engineering (Front End & Back End) |
 
 </div>
-
----
-
-<div align="center">
-
-**Thanks for stopping by!** 🌟
-
-*Building the future, one commit at a time* 🚀
-
-</div>
