@@ -46,7 +46,7 @@ P  A  P  U  A    N  E  W    G  U  I  N  E  A    H  O  L  D  S    T  H  E    R  E
 W  I  T  H    8  0  0  +    S  P  O  K  E  N    L  A  N  G  U  A  G  E  S  
 A  M  O  N  G    R  O  U  G  H  L  Y    1  0    M  I  L  L  I  O  N    P  E  O  P  L  E  .
 
-🤔  S  O  M  E  T  H  I  N  G    T  O    T  H  I  N  K    P  O  N  D  E  R  !
+🤔  S  O  M  E  T  H  I  N  G    T  O    P  O  N  D  E  R  !
 ```
 
 ---
