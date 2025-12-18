@@ -30,7 +30,7 @@
 
 ---
 
-## ⚡ Fun Fact: Programming Language Diversity
+## ⚡ Fun Fact:
 
 
 ```diff
@@ -40,15 +40,11 @@
 
 
 > [!NOTE]  
-> ### 🌍 **Linguistic Diversity Comparison**
-> 
-> **Programming Languages 💻**  
-> There have been **hundreds of programming languages created—some lists count 700+ when you include historical and experimental ones!** Only a few dozen are used widely today, but it still shows how creatively diverse the field is.
+> _There have been **hundreds of programming languages created—some lists count 700+!**_
 >
-> **Human Languages 🗣️**  
-> **Papua New Guinea** holds the record for natural language diversity with **800+ spoken languages** among roughly 10 million people—the highest concentration of human languages on Earth.
+> _**Papua New Guinea** holds the record with **800+ spoken languages** among roughly 10 million people._
 >
-> 🤔 ***Something to think ponder!***
+> 🤔 _Something to think ponder!_
 
 ---
 
