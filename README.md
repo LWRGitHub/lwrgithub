@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Logan Reynolds
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Architecture+Enthusiast;Always+Learning+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Cloud+Architecture+Enthusiast;One-Tap+Orchestration+Maestro" alt="Typing SVG" />
 
 ---
 
@@ -37,14 +37,17 @@
 + If computer programming were a country...
 + it would rank 2nd in linguistic diversity!
 ```
+```mathematica
+T  H  E  R  E    H  A  V  E    B  E  E  N    H  U  N  D  R  E  D  S  
+O  F    P  R  O  G  R  A  M  M  I  N  G    L  A  N  G  U  A  G  E  S  
+C  R  E  A  T  E  D — S  O  M  E    L  I  S  T  S    C  O  U  N  T    7  0  0  +  !
 
+P  A  P  U  A    N  E  W    G  U  I  N  E  A    H  O  L  D  S    T  H  E    R  E  C  O  R  D
+W  I  T  H    8  0  0  +    S  P  O  K  E  N    L  A  N  G  U  A  G  E  S  
+A  M  O  N  G    R  O  U  G  H  L  Y    1  0    M  I  L  L  I  O  N    P  E  O  P  L  E  .
 
-> [!NOTE]  
-> _There have been **hundreds of programming languages created—some lists count 700+!**_
->
-> _**Papua New Guinea** holds the record with **800+ spoken languages** among roughly 10 million people._
->
-> 🤔 _Something to think ponder!_
+🤔  S  O  M  E  T  H  I  N  G    T  O    T  H  I  N  K    P  O  N  D  E  R  !
+```
 
 ---
 
